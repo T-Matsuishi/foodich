@@ -20,7 +20,6 @@
     background-color: #fff;
     overflow: hidden;
     border-bottom: 4px solid #d4d1d1;
-    position: fixed;
 }
 
 .header img {
@@ -92,6 +91,7 @@ li {
     width: 300px;
     height: 300px;
     overflow: hidden;
+    opacity: 0.5;
 }
 
 .footer {

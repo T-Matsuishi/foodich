@@ -15,6 +15,9 @@
     overflow: hidden;
     border-bottom: 4px solid #d4d1d1;
     position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 .header img {
